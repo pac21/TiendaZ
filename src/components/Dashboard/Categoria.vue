@@ -6,7 +6,7 @@
 				<b-col cols="3" class="">
 					<div class="text-center">
 						<b-button variant="primary" @click="habilitar">
-							Buscqueda por filtro
+							Busqueda por filtro
 						</b-button>
 					</div>
 					<div v-if="(disabled==false)">
